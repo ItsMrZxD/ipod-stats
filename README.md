@@ -45,4 +45,4 @@ Optional:
 - A web server that reads Windows and GPU sensors and sends them to the page
 - A page that stays light enough for a 256 MB device, updating only what changed
 - A live mouse cursor on the iPod using the old WebSocket version its Safari supports
-- Access limited to this PC and listed MAC addresses
+- Only this PC and approved devices (listed by MAC address) can open the page
