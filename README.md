@@ -2,8 +2,8 @@
 
 An old iPod touch 3G (iOS 5.1.1) reused as a second screen for a Windows PC. The PC runs a small web server and the iPod shows its page over Wi-Fi.
 
-<!-- photo goes here: ![iPodStats on the iPod](docs/photo.jpg) -->
-*Photo coming soon.*
+![The stats page on an iPod touch](docs/mockup.png)
+*Mockup of the stats page with made-up sample data.*
 
 ## What it does
 
